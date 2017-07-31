@@ -1,0 +1,23 @@
+{
+  "name": "christmas-lights",
+  "version": "1.0.0",
+  "description": "christmas lights!",
+  "main": "index.js",
+  "scripts": {
+      "scan": "dash-button scan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/McCaudill/christmas-lights.git"
+  },
+  "author": "Jordan Caudill",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "dash-button": "^3.0.0"
+  },
+  "devDependencies": {}
+}
